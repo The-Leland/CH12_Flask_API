@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "fa7c5f4e-bff4-468c-84e9-0fd53c09208e",
+		"name": "Flask API Leland",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47793727"
+	},
+	"item": [
+		{
+			"name": "Create Product",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
