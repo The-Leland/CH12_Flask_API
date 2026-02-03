@@ -1,6 +1,5 @@
 from flask import Flask
 
-# import routes
 from routes.product_routes import product
 
 
